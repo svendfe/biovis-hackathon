@@ -7,7 +7,7 @@ General Information : http://biovis.net/2019/biovisChallenges_vis/
 |------|-------|
 |Ana Crisan | amcrisan|
 | Etienne Meunier | Etienne-Meunier |
-| Federico Arribas | Svendsen |
+| Federico Arribas | svendfe |
 | Javier Castillo-Arnemann | yavyx|
 
 
